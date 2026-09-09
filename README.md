@@ -48,11 +48,5 @@ Aspiring software engineer , studying hard to be able to collaborate on Open Sou
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Zalqy14&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Zalqy14">Zalqy14</a></i></p>
