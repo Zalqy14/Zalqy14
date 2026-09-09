@@ -13,7 +13,7 @@
 Aspiring software engineer , studying hard to be able to collaborate on Open Source and help local people in their IT problems
 
 🔭 &nbsp;I'm currently working on **SQL Databases**  
-🌱 &nbsp;I'm currently learning **CS50**  
+🌱 &nbsp;I'm currently learning **CS50 , FrameWorks**  
 🤔 &nbsp;I'm looking for help with **Learning more about cs and land a intership**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **Im a rock climber**
