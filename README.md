@@ -13,7 +13,7 @@
 Aspiring software engineer , studying hard to be able to collaborate on Open Source and help local people in their IT problems
 
 🔭 &nbsp;I'm currently working on **SQL Databases**  
-🌱 &nbsp;I'm currently learning **CS50 , FrameWorks**  
+🌱 &nbsp;I'm currently learning **CS50**  
 🤔 &nbsp;I'm looking for help with **Learning more about cs and land a intership**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **Im a rock climber**
@@ -25,14 +25,14 @@ Aspiring software engineer , studying hard to be able to collaborate on Open Sou
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ### 📊 GitHub Stats
@@ -50,3 +50,4 @@ Aspiring software engineer , studying hard to be able to collaborate on Open Sou
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Zalqy14">Zalqy14</a></i></p>
+
